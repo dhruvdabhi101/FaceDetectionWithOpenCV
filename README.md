@@ -13,7 +13,7 @@ https://github.com/opencv/opencv/tree/master/data/haarcascades
 ***
 ### Instructions
 - Download this Folder
-- write ```python app.py```
+- write ```python app.py``` in your terminal
 - That's it.
 
 ***
