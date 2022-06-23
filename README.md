@@ -1,4 +1,4 @@
-# FaceDetectionWithOpenCv
+# FaceDetectionWithOpenCV
 
 ### Used Technologies
 - Python
